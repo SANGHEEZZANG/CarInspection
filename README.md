@@ -8,7 +8,10 @@ matplotlib, seaborn로 시각화를 해 봅니다.
   * 숫자 0으로 대체 합니다.
 * 소수점 제거를 위해 int로 형 변환
 * '소재지번주소' 컬럼으로 지역명을 추출 합니다.
-* 
+* matplotlib의 가로로된 막대그래프로 어느 지역의 검사소의 수가 많은지 확인 합니다.
+  * 민간/공공 기업별로 그룹화 하여 검사소의 수를 확인 합니다.
+* seaborn으로 지역별 그리고 민간/공공으로 그룹화하여, 가로로된 막대그래프로 시각화 합니다.
+* 위도/경도 컬럼으로 검사소 위치를 시각화 합니다.
 
 [링크](https://github.com/SANGHEEZZANG/CarInspection/blob/main/%EC%A0%84%EA%B5%AD%EC%9E%90%EB%8F%99%EC%B0%A8%EA%B2%80%EC%82%AC%EC%86%8C%ED%91%9C%EC%A4%80%EB%8D%B0%EC%9D%B4%ED%84%B0.ipynb)
 
